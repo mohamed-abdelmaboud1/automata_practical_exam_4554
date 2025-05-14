@@ -7,7 +7,8 @@
 
 * **DFA for Substring '101'**: A Deterministic Finite Automaton (DFA) designed to check if a binary string contains the substring "101".
   
-  ![daf](https://github.com/user-attachments/assets/5b2264b3-8a73-40bb-918c-72c5baec8acd)
+  ![image](https://github.com/user-attachments/assets/de16f5da-976b-4432-8c3f-aa72bc923cf6)
+
 ---
 * **Turing Machine for Divisibility by 3**: A Turing Machine that determines if a binary number is divisible by 3.
   
