@@ -21,7 +21,7 @@ python --version
 ```
 Additionally, make sure you have `git` installed to clone the repository.
 
-#### 1.Open cmd and clone the Repository
+#### 1. Open cmd and clone the Repository
 
 ```bash
 git clone https://github.com/mohamed-abdelmaboud1/automata_practical_exam_4554.git
