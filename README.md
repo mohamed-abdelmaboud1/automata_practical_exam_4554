@@ -55,9 +55,9 @@ This script uses a DFA to check whether a given binary string contains the subst
 
 2. Run the `dfa.py` script to start the DFA:
 
-   ```bash
-   python dfa.py
-   ```
+```bash
+python dfa.py
+```
 
 3. The program will check if the string contains the substring '101'. If the substring is found, the result will be "Accepted"; otherwise, it will return "Rejected".
 
@@ -79,9 +79,10 @@ This Turing Machine is designed to determine if a binary number is divisible by 
 #### How to Run:
 
 1. Run:
-   ```bash
-   python turing_machine_divisible_by_3.py
-   ```
+
+```bash
+python turing_machine_divisible_by_3.py
+```
 
 2. The code will determines whether the binary number is divisible by 3.
 
