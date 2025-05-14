@@ -1,12 +1,19 @@
 # Theory of Computation Practical
-## Name: محمد محمد عبدالمعبود
-## Section: 5
+#### Name: Mohamed Mohamed Abdelmaboud Mohamed
+#### Section: 5
+#### id: 4554
 
 ### Task Being Solved
 
 * **DFA for Substring '101'**: A Deterministic Finite Automaton (DFA) designed to check if a binary string contains the substring "101".
-* **Turing Machine for Divisibility by 3**: A Turing Machine that determines if a binary number is divisible by 3.
+  
+  ![image](https://github.com/user-attachments/assets/de16f5da-976b-4432-8c3f-aa72bc923cf6)
 
+---
+* **Turing Machine for Divisibility by 3**: A Turing Machine that determines if a binary number is divisible by 3.
+  
+![Turing-Machine-divisible-by-3](https://github.com/user-attachments/assets/cfbb463c-b818-4275-9afa-57c85bc394e2)
+---
 ### How to Run and Test the Code
 Before running the code, ensure that you have Python 3.x installed. You can check the Python version by running the following command:
 
@@ -15,16 +22,16 @@ python --version
 ```
 Additionally, make sure you have `git` installed to clone the repository.
 
-#### 1. Clone the Repository
+#### 1. Open cmd and clone the Repository
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/mohamed-abdelmaboud1/automata_practical_exam_4554.git
 ```
 
 #### 2. Navigate to the Project Directory
 
 ```bash
-cd <project_directory>
+cd automata_practical_exam_4554
 ```
 
 #### 3. Install Required Dependencies
@@ -49,9 +56,9 @@ This script uses a DFA to check whether a given binary string contains the subst
 
 2. Run the `dfa.py` script to start the DFA:
 
-   ```bash
-   python dfa.py
-   ```
+```bash
+python dfa.py
+```
 
 3. The program will check if the string contains the substring '101'. If the substring is found, the result will be "Accepted"; otherwise, it will return "Rejected".
 
@@ -73,9 +80,10 @@ This Turing Machine is designed to determine if a binary number is divisible by 
 #### How to Run:
 
 1. Run:
-   ```bash
-   python turing_machine_divisible_by_3.py
-   ```
+
+```bash
+python turing_machine_divisible_by_3.py
+```
 
 2. The code will determines whether the binary number is divisible by 3.
 
