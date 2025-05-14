@@ -13,8 +13,6 @@ def dfa_substring_101(input_string):
     Returns:
         "Accepted" if the string contains '101', "Rejected" if no.
 
-    Fore.RED and Fore.GREEN are used to color the output.
-
     """
     for bit in input_string:
         if bit not in ('0', '1'):

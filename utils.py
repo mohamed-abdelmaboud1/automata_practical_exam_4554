@@ -1,5 +1,7 @@
 from colorama import Fore, Style
 from colorama import init
+
+# Fore.RED and Fore.GREEN are used to color the output.
 init(autoreset=True) # to reset colors after each print
 def print_rejected():
     print(Fore.RED + "Rejected")
