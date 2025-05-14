@@ -30,7 +30,7 @@ git clone https://github.com/mohamed-abdelmaboud1/automata_practical_exam_4554.g
 #### 2. Navigate to the Project Directory
 
 ```bash
-cd <project_directory>
+cd automata_practical_exam_4554
 ```
 
 #### 3. Install Required Dependencies
