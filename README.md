@@ -1,13 +1,18 @@
 # Theory of Computation Practical
-## Name: Mohamed Mohamed abdelmaboud
-## Section: 5
-## id: 4554
+#### Name: Mohamed Mohamed Abdelmaboud Mohamed
+#### Section: 5
+#### id: 4554
 
 ### Task Being Solved
 
 * **DFA for Substring '101'**: A Deterministic Finite Automaton (DFA) designed to check if a binary string contains the substring "101".
+  
+  ![daf](https://github.com/user-attachments/assets/5b2264b3-8a73-40bb-918c-72c5baec8acd)
+---
 * **Turing Machine for Divisibility by 3**: A Turing Machine that determines if a binary number is divisible by 3.
-
+  
+![Turing-Machine-divisible-by-3](https://github.com/user-attachments/assets/cfbb463c-b818-4275-9afa-57c85bc394e2)
+---
 ### How to Run and Test the Code
 Before running the code, ensure that you have Python 3.x installed. You can check the Python version by running the following command:
 
