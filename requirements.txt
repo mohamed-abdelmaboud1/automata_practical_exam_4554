@@ -1,2 +1,1 @@
-# Add all required libraries for the project
 colorama
