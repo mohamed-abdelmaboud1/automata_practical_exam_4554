@@ -1,6 +1,6 @@
-from colorama import init, Fore, Style
+# from colorama import init, Fore, Style
 
-from utils import print_accepted, print_invalid , print_rejected
+from .utils import print_accepted, print_invalid, print_rejected
 
 
 

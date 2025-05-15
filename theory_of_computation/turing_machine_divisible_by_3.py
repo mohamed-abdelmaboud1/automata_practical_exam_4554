@@ -1,5 +1,4 @@
-
-from utils import print_accepted, print_invalid, print_rejected
+from .utils import print_accepted, print_invalid, print_rejected
 
 
 def turing_machine_divisible_by_3(binary_input):
