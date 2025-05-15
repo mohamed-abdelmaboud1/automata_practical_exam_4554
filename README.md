@@ -70,7 +70,7 @@ pip install -r requirements.txt
 
 This will install the required libraries for both the DFA and the Turing Machine scripts.
 
-#### 4. Package Installation
+#### 4. To use Package directly
 
 ![image](https://github.com/user-attachments/assets/a8fe1e2d-2ea5-4727-9d07-c382728af43e)
 
