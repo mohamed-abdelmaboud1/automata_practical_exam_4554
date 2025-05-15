@@ -70,6 +70,14 @@ pip install -r requirements.txt
 
 This will install the required libraries for both the DFA and the Turing Machine scripts.
 
+#### 4. Package Installation
+
+To install the package, run the following command:
+
+```bash
+pip install .
+```
+
 ---
 
 ### DFA for Substring '101'
