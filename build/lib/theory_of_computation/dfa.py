@@ -1,7 +1,5 @@
 # from colorama import init, Fore, Style
-
-from .utils import print_accepted, print_invalid, print_rejected
-
+from theory_of_computation.utils import print_invalid , print_accepted, print_rejected
 
 
 def dfa_substring_101(input_string):
