@@ -81,7 +81,7 @@ pip install theory-of-computation==1.0.0
 ```
 
 ---
-### Project Content!
+## Project Content!
 
 ### DFA for Substring '101'
 
