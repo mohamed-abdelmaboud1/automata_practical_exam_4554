@@ -5,7 +5,6 @@ Summary: A package for DFA and Turing Machine implementations.
 Author: Mohamed Abdelmabod
 Author-email: mohamedabdlmabod03@gmail.com
 Classifier: Programming Language :: Python :: 3
-Classifier: License :: OSI Approved :: MIT License
 Requires-Python: >=3.6
 License-File: LICENSE
 Requires-Dist: colorama

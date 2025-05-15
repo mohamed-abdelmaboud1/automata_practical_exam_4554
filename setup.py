@@ -12,7 +12,6 @@ setup(
     author_email='mohamedabdlmabod03@gmail.com',
     classifiers=[
         'Programming Language :: Python :: 3',
-        'License :: OSI Approved :: MIT License',
     ],
     python_requires='>=3.6',
 )

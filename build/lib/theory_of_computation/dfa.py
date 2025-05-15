@@ -24,30 +24,22 @@ def dfa_substring_101(input_string):
                 current_state = "q0"
             elif char == '1':
                 current_state = "q1"
-            else:
-                return "Rejected"
 
         elif current_state == "q1":
             if char == '0':
                 current_state = "q2"
             elif char == '1':
                 current_state = "q1"
-            else:
-                return "Rejected"
 
         elif current_state == "q2":
             if char == '0':
                 current_state = "q0"
             elif char == '1':
                 current_state = "q3"
-            else:
-                return "Rejected"
 
         elif current_state == "q3":
             if char in ('0', '1'):
                 current_state = "q3"
-            else:
-                return "Rejected"
 
     if current_state == "q3":
         return "Accepted"

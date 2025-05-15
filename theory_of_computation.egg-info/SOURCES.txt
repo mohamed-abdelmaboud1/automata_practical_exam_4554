@@ -5,6 +5,8 @@ requirements.txt
 setup.py
 test/__init__.py
 test/dfa_test.py
+test/test_dfa.py
+test/test_turing_machine.py
 test/turing_test.py
 theory_of_computation/__init__.py
 theory_of_computation/dfa.py
